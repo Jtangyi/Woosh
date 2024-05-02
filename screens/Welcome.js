@@ -25,7 +25,6 @@ const Welcome = ({ navigation }) => {
                     <Text style={styles.heading}>Let's Get</Text>
                     <Text style={styles.heading}>Started</Text>
                     <View style={styles.sloganContainer}>
-                        <Text style={styles.slogan}>Connect to Nature with woosh</Text>
                         <Text style={styles.slogan}>Shop woosh products, Straight from nature</Text>
                     </View>
                     <Button
