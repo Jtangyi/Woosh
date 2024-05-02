@@ -14,7 +14,7 @@ const Welcome = ({ navigation }) => {
                 {/* Logo */}
                 <View style={styles.logoContainer}>
                     <Image
-                        source={require("../assets/facebook.png")}
+                        source={require("../assets/logo.png")}
                         style={styles.logo}
                         resizeMode="contain"
                     />
